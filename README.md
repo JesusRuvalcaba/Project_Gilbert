@@ -1,7 +1,7 @@
 # Project Gilbert
 
 
-<img width="375" height="750" alt="image" src="https://github.com/user-attachments/assets/869a8595-9676-4667-a68e-035c88ccc9a5" />
+<img width="375" height="500" alt="image" src="https://github.com/user-attachments/assets/869a8595-9676-4667-a68e-035c88ccc9a5" />
 
 https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py7WY/edit?usp=sharing
 
