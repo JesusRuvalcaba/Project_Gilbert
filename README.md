@@ -14,6 +14,8 @@
 | Crystal Duran     | SHPE Internal Vice President  | Junior    | Project Manager                        |
 
 
+      
+
 | Name              | Major / Position              | Year      | Role / Responsibility  |
 | ----------------- | ----------------------------- | --------- | ---------------------- |
 | Josue Garcia      | Industrial Engineering        | Junior    | Rack and Pinion System |
