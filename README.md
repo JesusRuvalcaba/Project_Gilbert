@@ -6,6 +6,14 @@
 
 # Contributors
 
+| Name              | Major / Position              | Year      | Role / Responsibility                  |
+| ----------------- | ----------------------------- | --------- | -------------------------------------- |
+| Jesus Ruvalcaba   | Electrical Engineering        | Senior    | Systems and Electrical Operations Lead |
+| Gabriel Contreras | Manufacturing Engineering     | Sophomore | Manufacturing Operations Lead          |
+| Pedro Perez       | Electromechanical Engineering | Senior    | Electromechanical Systems Lead         |
+| Crystal Duran     | SHPE Internal Vice President  | Junior    | Project Manager                        |
+
+
 | Name              | Major / Position              | Year      | Role / Responsibility  |
 | ----------------- | ----------------------------- | --------- | ---------------------- |
 | Josue Garcia      | Industrial Engineering        | Junior    | Rack and Pinion System |
