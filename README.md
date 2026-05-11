@@ -18,10 +18,10 @@ This team was responsible for overseeing system integration, project coordinatio
 
 | Name              | Major / Position              | Year      | Role / Responsibility                  |
 | ----------------- | ----------------------------- | --------- | -------------------------------------- |
+| Crystal Duran     | SHPE Internal Vice President  | Junior    | Project Manager                        |
 | Jesus Ruvalcaba   | Electrical Engineering        | Senior    | Systems and Electrical Operations Lead |
 | Gabriel Contreras | Manufacturing Engineering     | Sophomore | Manufacturing Operations Lead          |
 | Pedro Perez       | Electromechanical Engineering | Senior    | Electromechanical Systems Lead         |
-| Crystal Duran     | SHPE Internal Vice President  | Junior    | Project Manager                        |
 
 Project Members
 
