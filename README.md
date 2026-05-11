@@ -12,7 +12,7 @@ The project also served as a mentorship-driven learning experience where uppercl
 
 # Contributors
 
-Project Leadership Team
+## Project Leadership Team
 
 This team was responsible for overseeing system integration, project coordination, manufacturing operations, and final project execution.
 
@@ -23,7 +23,7 @@ This team was responsible for overseeing system integration, project coordinatio
 | Gabriel Contreras | Manufacturing Engineering     | Sophomore | Manufacturing Operations Lead          |
 | Pedro Perez       | Electromechanical Engineering | Senior    | Electromechanical Systems Lead         |
 
-Project Members
+## Project Members
 
 These members contributed to the mechanical, electrical, and structural development of the RC car project subsystems.
 
