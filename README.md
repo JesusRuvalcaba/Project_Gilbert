@@ -1,10 +1,16 @@
 # SHPE - Project Gilbert - Team 2
 
+The purpose of the RC car project was to provide students with hands-on engineering experience through the design, assembly, and integration of mechanical, electrical, and manufacturing systems into a complete working vehicle. The project allowed members to apply classroom concepts to a real multidisciplinary engineering application while developing technical, teamwork, and project management skills. Each year, the project is continued as a mentorship-based learning experience where upperclassmen and project leads oversee and guide lowerclassmen engineering students throughout the development process, helping them gain practical experience in engineering design, manufacturing, system integration, and collaborative problem solving.
+
 
 <img width="375" height="500" alt="image" src="https://github.com/user-attachments/assets/869a8595-9676-4667-a68e-035c88ccc9a5" />
 
 
 # Contributors
+
+Project Leadership Team
+
+This team was responsible for overseeing system integration, project coordination, manufacturing operations, and final project execution.
 
 | Name              | Major / Position              | Year      | Role / Responsibility                  |
 | ----------------- | ----------------------------- | --------- | -------------------------------------- |
@@ -13,8 +19,9 @@
 | Pedro Perez       | Electromechanical Engineering | Senior    | Electromechanical Systems Lead         |
 | Crystal Duran     | SHPE Internal Vice President  | Junior    | Project Manager                        |
 
+Project Members
 
-      
+These members contributed to the mechanical, electrical, and structural development of the RC car project subsystems.
 
 | Name              | Major / Position              | Year      | Role / Responsibility  |
 | ----------------- | ----------------------------- | --------- | ---------------------- |
