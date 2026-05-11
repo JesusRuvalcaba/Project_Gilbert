@@ -1,9 +1,13 @@
 # SHPE - Project Gilbert - Team 2
 
-The purpose of the RC car project was to provide students with hands-on engineering experience through the design, assembly, and integration of mechanical, electrical, and manufacturing systems into a complete working vehicle. The project allowed members to apply classroom concepts to a real multidisciplinary engineering application while developing technical, teamwork, and project management skills. Each year, the project is continued as a mentorship-based learning experience where upperclassmen and project leads oversee and guide lowerclassmen engineering students throughout the development process, helping them gain practical experience in engineering design, manufacturing, system integration, and collaborative problem solving.
-
 
 <img width="375" height="500" alt="image" src="https://github.com/user-attachments/assets/869a8595-9676-4667-a68e-035c88ccc9a5" />
+
+## Project Description
+
+Project Gilbert is a multidisciplinary RC car engineering project developed through SHPE to provide students with practical experience in mechanical, electrical, and manufacturing system design. The project focused on the development and integration of key vehicle subsystems including the rack and pinion steering mechanism, rear suspension system, circuit design, and overall system assembly. Team members collaborated to design, manufacture, assemble, and test a functional RC vehicle while applying engineering concepts learned in coursework to a real-world project environment.
+
+The project also served as a mentorship-driven learning experience where upperclassmen and project leads guided lowerclassmen students throughout the design and development process. Through subsystem integration, design reviews, troubleshooting, and collaborative problem solving, members gained hands-on experience in engineering workflow, manufacturing processes, project coordination, and technical communication.
 
 
 # Contributors
