@@ -48,3 +48,17 @@ https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py
 
 [CDR Gilbert.pdf](https://github.com/user-attachments/files/27575757/CDR.Gilbert.pdf)
 
+
+# Final Assembly Overview
+
+## Electrical
+
+## Steering
+
+## Suspension
+
+## Drivetrain
+
+# Cost Breakdown
+
+
