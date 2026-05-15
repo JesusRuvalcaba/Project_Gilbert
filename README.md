@@ -61,10 +61,13 @@ https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py
 
 # Cost Breakdown
 
-| Part Name               | Quantity | Cost      | Link  |
-| ----------------------- | -------- | --------- | ----- |
-|   HiLetgo 3pcs ESP32    |    1     |  $17.99   | [ESP32](https://www.amazon.com/gp/product/B0CNYK7WT2/ref=sw_img_1?smid=A30QSGOJR8LMXA&psc=1) 
-|       |         |     | https://www.amazon.com/gp/product/B0CNYK7WT2/ref=sw_img_1?smid=A30QSGOJR8LMXA&psc=1
+| Part Name                                | Quantity |   Cost | Link                                                                                                                |
+| ---------------------------------------- | -------: | -----: | ------------------------------------------------------------------------------------------------------------------- |
+| HiLetgo ESP32 Development Board (3 Pack) |        1 | $17.99 | [ESP32](https://www.amazon.com/gp/product/B0CNYK7WT2/ref=sw_img_1?smid=A30QSGOJR8LMXA&psc=1&utm_source=chatgpt.com) |
+| DC Brushed Gear Motor                    |        2 |      — | [DC Gear Motor](https://www.amazon.com/dp/B0F9Y6CMC8?utm_source=chatgpt.com)                                        |
+| L298N Dual H-Bridge Motor Driver         |        1 |      — | [L298N Motor Driver](https://www.amazon.com/dp/B01ETJXYD2?utm_source=chatgpt.com)                                   |
+| RC Car Chassis Kit                       |        1 |      — | [RC Car Chassis Kit](https://www.amazon.com/dp/B0B1C2D44R?utm_source=chatgpt.com)                                   |
+
 
 
 
