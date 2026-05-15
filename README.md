@@ -61,4 +61,13 @@ https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py
 
 # Cost Breakdown
 
+| Part Name               | Quantity | Cost      | Link  |
+| ----------------------- | -------- | --------- | ----- |
+|   HiLetgo 3pcs ESP32    |    1     |  $17.99   | [ESP32](https://www.amazon.com/gp/product/B0CNYK7WT2/ref=sw_img_1?smid=A30QSGOJR8LMXA&psc=1) 
+|       |         |     | https://www.amazon.com/gp/product/B0CNYK7WT2/ref=sw_img_1?smid=A30QSGOJR8LMXA&psc=1
+
+
+
+|
+
 
