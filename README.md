@@ -49,12 +49,11 @@ https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py
 [CDR Gilbert.pdf](https://github.com/user-attachments/files/27575757/CDR.Gilbert.pdf)
 
 
+## Electrical
+
 # Final Assembly Overview
 
 <img width="500" height="342" alt="image" src="https://github.com/user-attachments/assets/3d3db413-8cab-4cd2-b271-829c7d3d92cf" />
-
-
-## Electrical
 
 ## Chassis Sub Assembly
 <img width="500" height="351" alt="image" src="https://github.com/user-attachments/assets/0186e095-6d89-43be-853d-826bb4b1b1cc" />
@@ -69,7 +68,7 @@ https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py
 
 | Part Name                                | Quantity |   Cost | Link                                                                                                                |
 | ---------------------------------------- | -------: | -----: | ------------------------------------------------------------------------------------------------------------------- |
-| HiLetgo ESP32 Development Board (3 Pack) |        1 | $17.99 | [ESP32](https://www.amazon.com/gp/product/B0CNYK7WT2/ref=sw_img_1?smid=A30QSGOJR8LMXA&psc=1&utm_source=chatgpt.com) |
+| HiLetgo ESP32 Development Board (3 Pack) |        1 | $17.99 | [ESP32]([https://www.amazon.com/gp/product/B0CNYK7WT2/ref=sw_img_1?smid=A30QSGOJR8LMXA&psc=1&utm_source=chatgpt.com](https://www.amazon.com/Hosyond-Development-Bluetooth-Microcontroller-ESP-WROOM-32/dp/B0F1MS5S8R/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.XBINg-sjhfF_gUtnMiKGjk-Cz998LZHcErnfMs35F-Dizk7kXbxXDm0NRZska7H_OQYzAG6iZCBiOnG14NLqXQ9m9g5k8s_cXNelqL_K4F3YxUdurxjb3eYp1mD03uUUG92HjcsUF952HZktn4vUMZPtD1MVDy9J0UGN4S634NU07iXyWiUIb3qNRKe95jGDwceW5BmZ4jGJWT_9Tq2yQ5dkdgCd8jQeM5tTAutIs0s.W-oRR1Qcz4YZjxTx6v29v-dBjJmJryp1PueN5uu6--s&dib_tag=se&keywords=esp32&qid=1780535244&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)) |
 | DC Brushed Gear Motor                    |        2 |      — | [DC Gear Motor](https://www.amazon.com/dp/B0F9Y6CMC8?utm_source=chatgpt.com)                                        |
 | L298N Dual H-Bridge Motor Driver         |        1 |      — | [L298N Motor Driver](https://www.amazon.com/dp/B01ETJXYD2?utm_source=chatgpt.com)                                   |
 | RC Car Chassis Kit                       |        1 |      — | [RC Car Chassis Kit](https://www.amazon.com/dp/B0B1C2D44R?utm_source=chatgpt.com)                                   |
