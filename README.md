@@ -3,6 +3,14 @@
 
 <img width="375" height="500" alt="image" src="https://github.com/user-attachments/assets/869a8595-9676-4667-a68e-035c88ccc9a5" />
 
+To control RC Car with cellphone:
+
+1) search for wifi SSID RC-Car
+2) enter password: 12345678
+3) open up the link below
+
+http://192.168.4.1/
+
 ## Project Description
 
 Project Gilbert is a multidisciplinary RC car engineering project developed through SHPE to provide students with practical experience in mechanical, electrical, and manufacturing system design. The project focused on the development and integration of key vehicle subsystems including the rack and pinion steering mechanism, rear suspension system, circuit design, and overall system assembly. Team members collaborated to design, manufacture, assemble, and test a functional RC vehicle while applying engineering concepts learned in coursework to a real-world project environment.
