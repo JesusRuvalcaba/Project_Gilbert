@@ -78,9 +78,6 @@ https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py
 <img width="500" height="347" alt="image" src="https://github.com/user-attachments/assets/e8032c24-38ec-4588-8732-d75731e60ee9" />
 
 
-
-## Future Improvements
-
 ## Future Improvements
 
 One of the main lessons learned from this project was that the drivetrain did not provide enough torque for the vehicle to perform as well as expected, especially when carrying additional load or driving over uneven surfaces. A future version of the design could improve this by using a rear-wheel-drive (RWD) differential system with a 10:1 gear ratio and a single brushless motor paired with an ESC. This setup would provide more torque, improve overall efficiency, and offer better driving performance than the current brushed motor configuration.
