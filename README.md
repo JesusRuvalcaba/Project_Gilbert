@@ -78,3 +78,14 @@ https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py
 ## Steering Suspension Sub Assembly
 <img width="500" height="347" alt="image" src="https://github.com/user-attachments/assets/e8032c24-38ec-4588-8732-d75731e60ee9" />
 
+
+## Future Improvements
+
+## Future Improvements
+
+Testing and operation of the final vehicle revealed that the drivetrain did not provide sufficient torque for reliable acceleration and traversal of inclined surfaces. While the existing dual brushed motor configuration was capable of basic vehicle movement, performance was limited when additional load was applied or when operating on uneven terrain. This highlighted the importance of matching motor characteristics, gearing, and drivetrain architecture to the vehicle's weight and intended operating conditions.    
+  
+A future iteration of the design would replace the current drivetrain with a rear-wheel-drive (RWD) differential system powered by a single brushless motor and electronic speed controller (ESC). Incorporating a differential would allow the rear wheels to rotate at different speeds during turns, improving handling and reducing mechanical stress on the drivetrain. In addition, implementing an approximately 10:1 gear reduction would significantly increase the torque delivered to the wheels, improving hill-climbing capability and low-speed control. The use of a brushless motor would also provide greater efficiency, higher power density, improved reliability, and reduced maintenance compared to the brushed motor system used in the current design. Together, these improvements would result in a more capable and scalable platform for future development and testing.
+
+
+
