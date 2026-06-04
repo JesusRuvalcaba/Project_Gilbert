@@ -51,13 +51,19 @@ https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py
 
 # Final Assembly Overview
 
+<img width="1458" height="997" alt="image" src="https://github.com/user-attachments/assets/3d3db413-8cab-4cd2-b271-829c7d3d92cf" />
+
+
 ## Electrical
 
-## Steering
+## Chassis Sub Assembly
+<img width="980" height="688" alt="image" src="https://github.com/user-attachments/assets/0186e095-6d89-43be-853d-826bb4b1b1cc" />
 
-## Suspension
+## Powertrain Suspension Sub Assembly
+<img width="993" height="717" alt="image" src="https://github.com/user-attachments/assets/7baf507e-bc3f-448f-9c34-adb424d4dc85" />
 
-## Drivetrain
+## Steering Suspension Sub Assembly
+<img width="930" height="646" alt="image" src="https://github.com/user-attachments/assets/e8032c24-38ec-4588-8732-d75731e60ee9" />
 
 # Cost Breakdown
 
