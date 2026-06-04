@@ -79,7 +79,6 @@ https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py
 <img width="500" height="347" alt="image" src="https://github.com/user-attachments/assets/e8032c24-38ec-4588-8732-d75731e60ee9" />
 
 
-## Future Improvements
 
 ## Future Improvements
 
