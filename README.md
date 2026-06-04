@@ -49,8 +49,6 @@ https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py
 [CDR Gilbert.pdf](https://github.com/user-attachments/files/27575757/CDR.Gilbert.pdf)
 
 
-## Electrical
-
 # Final Assembly Overview
 
 <img width="500" height="342" alt="image" src="https://github.com/user-attachments/assets/3d3db413-8cab-4cd2-b271-829c7d3d92cf" />
@@ -68,9 +66,9 @@ https://docs.google.com/presentation/d/1H8Z8eRnMIN4K8d28Y-c5Z4X9QktE7rCTanJxe8Py
 
 | Part Name                                | Quantity |   Cost | Link                                                                                                                |
 | ---------------------------------------- | -------: | -----: | ------------------------------------------------------------------------------------------------------------------- |
-| HiLetgo ESP32 Development Board (3 Pack) |        1 | $17.99 | [ESP32]([https://www.amazon.com/gp/product/B0CNYK7WT2/ref=sw_img_1?smid=A30QSGOJR8LMXA&psc=1&utm_source=chatgpt.com](https://www.amazon.com/Hosyond-Development-Bluetooth-Microcontroller-ESP-WROOM-32/dp/B0F1MS5S8R/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.XBINg-sjhfF_gUtnMiKGjk-Cz998LZHcErnfMs35F-Dizk7kXbxXDm0NRZska7H_OQYzAG6iZCBiOnG14NLqXQ9m9g5k8s_cXNelqL_K4F3YxUdurxjb3eYp1mD03uUUG92HjcsUF952HZktn4vUMZPtD1MVDy9J0UGN4S634NU07iXyWiUIb3qNRKe95jGDwceW5BmZ4jGJWT_9Tq2yQ5dkdgCd8jQeM5tTAutIs0s.W-oRR1Qcz4YZjxTx6v29v-dBjJmJryp1PueN5uu6--s&dib_tag=se&keywords=esp32&qid=1780535244&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)) |
-| DC Brushed Gear Motor                    |        2 |      — | [DC Gear Motor](https://www.amazon.com/dp/B0F9Y6CMC8?utm_source=chatgpt.com)                                        |
-| L298N Dual H-Bridge Motor Driver         |        1 |      — | [L298N Motor Driver](https://www.amazon.com/dp/B01ETJXYD2?utm_source=chatgpt.com)                                   |
+| HiLetgo ESP32 Development Board (3 Pack) |        1 | $17.99 | [ESP32](https://www.amazon.com/Hosyond-Development-Bluetooth-Microcontroller-ESP-WROOM-32/dp/B0F1MS5S8R/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.XBINg-sjhfF_gUtnMiKGjk-Cz998LZHcErnfMs35F-Dizk7kXbxXDm0NRZska7H_OQYzAG6iZCBiOnG14NLqXQ9m9g5k8s_cXNelqL_K4F3YxUdurxjb3eYp1mD03uUUG92HjcsUF952HZktn4vUMZPtD1MVDy9J0UGN4S634NU07iXyWiUIb3qNRKe95jGDwceW5BmZ4jGJWT_9Tq2yQ5dkdgCd8jQeM5tTAutIs0s.W-oRR1Qcz4YZjxTx6v29v-dBjJmJryp1PueN5uu6--s&dib_tag=se&keywords=esp32&qid=1780535244&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
+| DC Brushed Gear Motor                    |        2 |      — | [DC Gear Motor](https://www.amazon.com/AUTOTOOLHOME-Torque-Traxxas-Wheels-Electric/dp/B01M58POHF/ref=sr_1_6_pp?crid=3OIO2N6BH7QXK&dib=eyJ2IjoiMSJ9.yv7Qc3yKAnKpmHlzGMf7pGVlDfh4JnBDbQb1wLeVnRvmfofaXw-CeQtQ0sKTL4wG908l8e7New0V5eXcWxpqvlxsbLzuJRsyDOFhcC0xNokiuWfVSC3gP6GlobyHTN3uRpOjS-CdZbdWqz_Mv8mZmoDZwuHq0aNJ9oW3OeJw4w1T0bJwm7lfYZPYfmHN75OV-mPNiB8K-ToTgN6ShUQAef3EhELhFxTRvJDvg_cpyKJ8GA2FVcTF_ZeIXbptH5rvIDVnJbSfVoS2bS_qZrdGIhjgqTYql-HOhoS5pDyhwzs.hp5VYBR9MFsAMzCBCzeb2L084LonzyRMcY3c0avKKaE&dib_tag=se&keywords=dc+brushed+motor&qid=1780535423&sprefix=dc+brushed+moto%2Caps%2C230&sr=8-6)                                        |
+| L298N Dual H-Bridge Motor Driver         |        1 |      — | [L298N Motor Driver](https://www.amazon.com/WWZMDiB-L298N-H-Bridge-Controller-Raspberry/dp/B0CR6BX5QL/ref=sr_1_3?crid=1XAG6Z5T2LXXZ&dib=eyJ2IjoiMSJ9.2ASbuM8dA1zSkqKe27QptktXLb66lZaL6yPgtgCjW1oWRfe5lgJHoebdsL9KG5LxgxDElmNSlVbfMdx-2wBS4ZDU2CMbKh1gA3AZ3FJkkPe05tX796luVuLECVrrCUkSxaz1GxgOiktr2WAeni4QFUaYzJ2ziDOpPWmkoQXtinlmgEno20G9y_-Y3X9DOCcg-glI3aZSIZBNDSAOH6TWt_zavRdTztab3oln1sy_mfg.MgB1TPkN0zkG1maU8-Gk3Srs3zmtBPRzFtscxxiDHdo&dib_tag=se&keywords=l298n%2Bmotor%2Bdriver&qid=1780535456&sprefix=l298n%2Bmotor%2Bdrive%2Caps%2C266&sr=8-3&th=1)                                   |
 | RC Car Chassis Kit                       |        1 |      — | [RC Car Chassis Kit](https://www.amazon.com/dp/B0B1C2D44R?utm_source=chatgpt.com)                                   |
 
 
